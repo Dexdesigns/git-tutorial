@@ -5,3 +5,4 @@ adebisiAge = 15;
 currentYear = 2024;
 dateOfBirth = currentYear - adebisiAge;
 console.log(dateOfBirth);
+
